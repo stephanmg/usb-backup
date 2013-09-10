@@ -1,1 +1,6 @@
 language: perl
+
+script: "success"
+
+install: 
+   cpanm --version
